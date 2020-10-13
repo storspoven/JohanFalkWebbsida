@@ -1,0 +1,16 @@
+
+h1 {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: orange;
+  background-color: Black;
+}
+/*text specifikationer*/
+p {
+  color: black;
+  background-color: orange;
+  font-family: fantasy;
+  font-size: 12px;
+}
